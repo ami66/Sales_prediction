@@ -14,7 +14,7 @@
 
 基于此，今年我们同样用该模型，再结合经验方法去预测双十一成交总额。
 
-详见https://mp.weixin.qq.com/s/CFNjYrNIeEgrwp6HBcy7Pg
+详见https://mp.weixin.qq.com/s/4fPBsd6Fq18pnZqYrD0tHA
 
 
 
